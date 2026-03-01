@@ -1,0 +1,12 @@
+[
+  {
+    "region": "apac",
+    "latency_ms": 200,
+    "uptime_pct": 99.1
+  },
+  {
+    "region": "emea",
+    "latency_ms": 150,
+    "uptime_pct": 98.7
+  }
+]
